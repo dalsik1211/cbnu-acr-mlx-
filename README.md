@@ -1,13 +1,10 @@
-# cbnu-acr-mlx-diff --git a/README.md b/README.md
-index 9f9399a625b05d59b820226313c3e1d629978b4f..edab86c5a5b5a792f31e01167c30c4a8072141a6 100644
---- a/README.md
-+++ b/README.md
-@@ -1 +1,59 @@
--# cbnu-acr-mlx-
-+# CBNU Academic Rules LoRA fine-tuning (MLX)
-+
+# cbnu-acr-mlx-diff 
+
+--git a/README.md b/README.md
+
+
 +Fine-tune beomi/Llama-3-Open-Ko-8B with LoRA on the Chungbuk National University academic rules Q&A dataset using Apple's MLX framework.
-+
+
 +## Setup (macOS zsh)
 +
 +```zsh
